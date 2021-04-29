@@ -2,6 +2,6 @@
 
 My favorite languages and tools to build things on the web:
 
-# Front end
+### Front end
 
-- [Vuejs](https://vuejs.org/
+- [Vuejs](https://vuejs.org/)
