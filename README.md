@@ -17,9 +17,9 @@
 
 Here's my favorite languages and tools to build things on the web:
 
-**:zap: Front end:** 💻                                                                    **:zap: Back end:** 💻
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)                                - [Laravel](https://laravel.com/)
-- [Css3](https://developer.mozilla.org/en-US/docs/Web/CSS)                                  - [Docker](https://www.docker.com/)
+**:zap: Front end:** 💻                                                                    
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)                               
+- [Css3](https://developer.mozilla.org/en-US/docs/Web/CSS)                                 
 - [SCSS](https://sass-lang.com/)
 - [Vuejs](https://vuejs.org/)
 - [Nuxtjs](https://nuxtjs.org/)
