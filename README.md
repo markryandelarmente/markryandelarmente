@@ -1,17 +1,17 @@
 ### Hi 👋,  I'm a web developer from Calbayog Philippines
 <p align="center">
 <br/>
-<a href="https://twitter.com/spida_rwin">
-  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+<a href="https://twitter.com/MarkDelarmente">
+  <img alt="mark's | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+<a href="https://www.linkedin.com/in/mark-ryan-delarmente/">
+  <img alt="mark's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-<a href="https://www.facebook.com/erwin.lejeune">
-  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+<a href="https://www.facebook.com/me.delarmente30/">
+  <img alt="mark's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://www.instagram.com/spid_erwin">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+<a href="https://www.instagram.com/markryandelarmente/">
+  <img alt="mark's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 </p>
 
