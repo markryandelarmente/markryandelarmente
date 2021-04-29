@@ -13,16 +13,13 @@
 <a href="https://www.instagram.com/spid_erwin">
   <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
 </p>
 
 Here's my favorite languages and tools to build things on the web:
 
-**:zap: Front end:** 💻
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Css3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+**:zap: Front end:** 💻                                                                    **:zap: Back end:** 💻
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)                                - [Laravel](https://laravel.com/)
+- [Css3](https://developer.mozilla.org/en-US/docs/Web/CSS)                                  - [Docker](https://www.docker.com/)
 - [SCSS](https://sass-lang.com/)
 - [Vuejs](https://vuejs.org/)
 - [Nuxtjs](https://nuxtjs.org/)
