@@ -4,7 +4,7 @@ My favorite languages and tools to build things on the web:
 
 ### Front end 💻
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [css3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Css3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [SCSS](https://sass-lang.com/)
 - [Vuejs](https://vuejs.org/)
 - [Nuxtjs](https://nuxtjs.org/)
