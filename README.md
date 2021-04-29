@@ -1,7 +1,7 @@
 ### Hi 👋,  I'm a web developer from Calbayog Philippines
 <p align="center">
 <br/>
-<a href="https://twitter.com/MarkDelarmente">
+<a href="https://twitter.com/MarkDelarmente" style="margin: 0 100px">
   <img alt="mark's | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mark-ryan-delarmente/">
