@@ -1,6 +1,6 @@
 ### Hi 👋,  I'm a web developer from Calbayog Philippines
 
-My favorite languages and tools to build things on the web:
+Here's my favorite languages and tools to build things on the web:
 
 ### Front end 💻
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
