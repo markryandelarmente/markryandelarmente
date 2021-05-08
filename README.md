@@ -1,5 +1,6 @@
 ### Hi 👋,  I'm a web developer from Calbayog Philippines
 <p align="center">
+<h6>Connect with me</h6>
 <br/>
 <a href="https://twitter.com/MarkDelarmente">
   <img alt="mark's | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
