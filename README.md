@@ -19,19 +19,19 @@ Here's my favorite languages and tools to build things on the web:
 
 <h6 align="center">Connect with me</h6>
 <p align="center">
-<a href="https://twitter.com/MarkDelarmente">
+<a href="https://twitter.com/MarkDelarmente" target="_blank">
   <img alt="mark's | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mark-ryan-delarmente/">
+<a href="https://www.linkedin.com/in/mark-ryan-delarmente/" target="_blank">
   <img alt="mark's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/me.delarmente30/">
+<a href="https://www.facebook.com/me.delarmente30/" target="_blank">
   <img alt="mark's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/markryandelarmente/">
+<a href="https://www.instagram.com/markryandelarmente/" target="_blank">
   <img alt="mark's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 </p>
