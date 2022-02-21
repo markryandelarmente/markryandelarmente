@@ -32,6 +32,6 @@ Here's my languages and tools to build things on the web:
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/markryandelarmente/" target="_blank">
-  <img alt="mark's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="mark's Instagram" width="35px" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" />
 </a>
 </p>
