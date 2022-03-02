@@ -4,16 +4,17 @@
 Here's my languages and tools to build things on the web:
 
 **:zap: Front end:** 💻                                                                    
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)                               
-- [Css3](https://developer.mozilla.org/en-US/docs/Web/CSS)                                 
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)                               
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [SCSS](https://sass-lang.com/)
-- [Vuejs](https://vuejs.org/)
-- [Nuxtjs](https://nuxtjs.org/)
+- [VUEJS](https://vuejs.org/)
+- [NUXTJS](https://nuxtjs.org/)
 
 **:zap: Back end:** 💻
-- [Laravel](https://laravel.com/)
-- [Docker](https://www.docker.com/)
-- [Mysql](https://www.mysql.com/)
-- [Redis](https://redis.io/)
+- [PHP](https://www.php.net/)
+- [LARAVEL](https://laravel.com/)
+- [DOCKER](https://www.docker.com/)
+- [MYSQL](https://www.mysql.com/)
 
 
