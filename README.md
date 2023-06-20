@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Ryan Delarmente</h1>
 
-<p>A seasoned Full-Stack Developer with over 4 years of experience in building and maintaining web applications. My expertise spans across front-end technologies like React, NextJS and TailwindCSS, and back-end technologies like Node.js and GraphQL. I am passionate about developing scalable and reliable solutions that meet business objectives and provide a seamless user experience.</p>
+<p>
+I'm an experienced Full-Stack Developer with 4+ years of expertise in building and maintaining web applications. I specialize in front-end technologies like React, NextJS, and TailwindCSS, as well as back-end technologies like Node.js and GraphQL. My passion lies in creating scalable and reliable solutions that meet business objectives and provide a seamless user experience.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
