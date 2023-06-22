@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mark Ryan Delarmente</h1>
+<h1 align="center">Mark Ryan Delarmente | Full Stack Developer</h1>
 
 <p>
 I am an experienced Full-Stack Developer with a strong track record of successfully building and maintaining web applications. With over 4 years of expertise, I bring a deep understanding of both front-end and back-end technologies to the table.
