@@ -1,13 +1,7 @@
 <h1 align="center">Mark Ryan Delarmente | Full Stack Developer</h1>
 
 <p>
-I am an experienced Full-Stack Developer with a strong track record of successfully building and maintaining web applications. With over 4 years of expertise, I bring a deep understanding of both front-end and back-end technologies to the table.
-
-On the front-end, I specialize in utilizing React, NextJS, and TailwindCSS. These technologies allow me to create visually appealing and interactive user interfaces while ensuring a smooth user experience.
-
-In the back-end realm, my proficiency lies in Node.js, a powerful JavaScript runtime that enables me to build scalable and efficient server-side applications. By leveraging Node.js, I ensure that the back-end of the applications I develop is robust and reliable.
-
-What sets me apart is my passion for creating solutions that not only meet business objectives but also provide a seamless user experience. I believe in developing scalable and reliable applications that can adapt to growing demands and changing business needs.</p>
+I’m Mark Ryan, a full-stack software engineer from Calbayog City, Philippines, with 6+ years of experience developing scalable and secured web applications. I worked across various technologies and roles in both front-end and back-end development, with a strong focus on performance, user experience, and clean architecture.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
