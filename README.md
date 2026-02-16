@@ -10,7 +10,7 @@ I'm a full-stack software engineer with 6+ years building production systems tha
    I'm currently seeking my next opportunity where I can bring this impact-driven approach to a team building products that matter. I'm particularly interested in roles that challenge me across the full stack and value clean engineering practices.
 </p>
 
-<a href="https://drive.google.com/file/d/14NgQVVguzwyQxFmV0iSyK2rfQzkGwxl6/view?usp=sharing" target="_blank" rel="noreferrer" style="font-size: 18px; padding: 10px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">View Resume</a>
+<a href="https://www.markryandelarmente.com" target="_blank" rel="noreferrer" style="font-size: 18px; padding: 10px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">View My Portfolio</a>
 
 <h3 align="left">Skills and Technologies:</h3>
 
