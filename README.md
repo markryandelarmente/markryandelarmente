@@ -1,7 +1,14 @@
 <h1 align="center">Mark Ryan Delarmente | Full Stack Developer</h1>
 
 <p>
-I’m Mark Ryan, a full-stack software engineer from Calbayog City, Philippines, with 6+ years of experience developing scalable and secured web applications. I worked across various technologies and roles in both front-end and back-end development, with a strong focus on performance, user experience, and clean architecture.</p>
+I'm a full-stack software engineer with 6+ years building production systems that solve real business problems. Based in Calbayog City, Philippines, I've worked with companies from local startups to international companies, shipping features that improve both user experience and system performance metrics.</p>
+
+<p>
+   I specialize in the full development lifecycle—from architecting scalable backends to crafting responsive frontends—with a particular focus on performance optimization and clean, maintainable code. I'm involved in features from initial planning through implementation and long-term maintenance—whether that's optimizing performance, modernizing legacy systems, or building new platforms. My guiding principle: create the most value with the least complexity.
+</p>
+<p>
+   I'm currently seeking my next opportunity where I can bring this impact-driven approach to a team building products that matter. I'm particularly interested in roles that challenge me across the full stack and value clean engineering practices.
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
