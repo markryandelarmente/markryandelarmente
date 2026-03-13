@@ -1,59 +1,66 @@
-<h1 align="center">Mark Ryan Delarmente <br> <span style="font-size: 20px;">Full Stack Software Engineer</span></h1>
+<div align="center">
 
-<p style="font-size: 18px;">
-I'm a full-stack software engineer with 6+ years building production systems that solve real business problems. Based in Calbayog City, Philippines, I've worked with companies from local startups to international companies, shipping features that improve both user experience and system performance metrics.</p>
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Mark Ryan Delarmente                                      │
+│   Full Stack Software Engineer                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<p style="font-size: 18px;">
-   I specialize in the full development lifecycle—from architecting scalable backends to crafting responsive frontends—with a particular focus on performance optimization and clean, maintainable code. I'm involved in features from initial planning through implementation and long-term maintenance—whether that's optimizing performance, modernizing legacy systems, or building new platforms. My guiding principle: create the most value with the least complexity.
-</p>
-<p style="font-size: 18px;">
-   I'm currently seeking my next opportunity where I can bring this impact-driven approach to a team building products that matter. I'm particularly interested in roles that challenge me across the full stack and value clean engineering practices.
-</p>
-
-<a href="https://www.markryandelarmente.com" target="_blank" rel="noreferrer" style="font-size: 18px; padding: 10px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">View My Portfolio</a>
-
-<h3 align="left">Skills and Technologies:</h3>
-
-#### Frontend Development
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <a style="margin: 10px;" href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="nextjs" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </div>
 
-#### Backend Development
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <a style="margin: 10px;" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-  <a style="margin: 10px;" href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
-  <a style="margin: 10px;" href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="50" height="50"/> </a>
-  <a style="margin: 10px;" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-  <a style="margin: 10px;" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
-  <a style="margin: 10px;" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://auth0.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2824157?s=200&v=4" alt="auth0" width="40" height="40"/> </a>
-</div>
+I'm a full-stack software engineer with 6+ years building production systems that solve real business problems. Based in Calbayog City, Philippines, I've worked with companies from local startups to international companies, shipping features that improve both user experience and system performance metrics.
 
-#### Deployment Tools & Platforms
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <a style="margin: 10px;" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a style="margin: 10px;" href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" alt="digitalocean" width="80" height="40"/> </a>
-  <a style="margin: 10px;" href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws-ec2" width="80" height="40"/> </a>
-  <a style="margin: 10px;" href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google-cloud" width="40" height="40"/> </a>
-</div>
+I specialize in the full development lifecycle—from architecting scalable backends to crafting responsive frontends—with a particular focus on performance optimization and clean, maintainable code. I'm involved in features from initial planning through implementation and long-term maintenance—whether that's optimizing performance, modernizing legacy systems, or building new platforms. My guiding principle: create the most value with the least complexity.
 
-#### AI-Assisted Development & Automation
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <span style="margin: 10px; padding: 5px 10px; border-radius: 4px; background-color: #f3f4f6; display: inline-block;">Claude Code</span>
-  <span style="margin: 10px; padding: 5px 10px; border-radius: 4px; background-color: #f3f4f6; display: inline-block;">Cursor</span>
-  <span style="margin: 10px; padding: 5px 10px; border-radius: 4px; background-color: #f3f4f6; display: inline-block;">n8n workflow</span>
-</div>
+I'm currently seeking my next opportunity where I can bring this impact-driven approach to a team building products that matter. I'm particularly interested in roles that challenge me across the full stack and value clean engineering practices.
+
+&nbsp;
+
+**[→ View My Portfolio](https://www.markryandelarmente.com)**
+
+---
+
+## Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-000?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=F24E1E)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=FF4438)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Auth0](https://img.shields.io/badge/Auth0-000?style=flat-square&logo=auth0&logoColor=EB5424)
+
+**Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=FCC624)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?style=flat-square&logo=digitalocean&logoColor=0080FF)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-000?style=flat-square&logo=googlecloud&logoColor=4285F4)
+
+**AI & Automation**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-000?style=flat-square&logo=anthropic&logoColor=fff)
+![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=fff)
+![n8n](https://img.shields.io/badge/n8n-000?style=flat-square&logo=n8n&logoColor=EA4B71)
