@@ -44,19 +44,19 @@ mark@dev:~$ cat stack.config
 ```toml
 [frontend]
 languages    = ["HTML5", "CSS3", "JavaScript", "TypeScript"]
-frameworks   = ["React", "Vue", "Next.js"]
+frameworks   = ["React", "Vue", "Next.js", "Nuxt"]
 styling      = ["Tailwind CSS"]
 design       = ["Figma"]
 
 [backend]
 runtime      = ["Node.js"]
-languages    = ["PHP"]
-frameworks   = ["Laravel"]
+languages    = ["Javascript", "Typescript", "PHP"]
+frameworks   = ["Express", "Nest.js", "Laravel"]
 databases    = ["MySQL", "PostgreSQL", "MongoDB", "Redis"]
 auth         = ["Auth0"]
 
 [infrastructure]
-vcs          = ["Git", "GitHub"]
+vcs          = ["Git", "GitHub", "GitLab"]
 containers   = ["Docker"]
 platforms    = ["Vercel", "DigitalOcean", "AWS EC2", "Google Cloud"]
 os           = ["Linux"]
