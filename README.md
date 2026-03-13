@@ -53,7 +53,7 @@ runtime      = ["Node.js"]
 languages    = ["Javascript", "Typescript", "PHP"]
 frameworks   = ["Express", "Nest.js", "Laravel"]
 databases    = ["MySQL", "PostgreSQL", "MongoDB", "Redis"]
-auth         = ["Auth0"]
+auth         = ["Auth0", Better-auth, Passport]
 
 [infrastructure]
 vcs          = ["Git", "GitHub", "GitLab"]
